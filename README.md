@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vram Papyan
 - 👀 I’m interested in Data Sceince, Machine Learning specificly
-- 🧑‍🎓 I’m currently learning Bachelor of DS at AUA
+- 🧑‍🎓 I’m studiing learning Bachelor of DS at AUA
 - ✅ Finished Introduction to ML at ACA(looking to attend Advanced ML at ACA)
